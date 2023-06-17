@@ -1,3 +1,5 @@
+[![Makefile CI](https://github.com/rzuckerm/yoix-docker-image/actions/workflows/makefile.yml/badge.svg)](https://github.com/rzuckerm/yoix-docker-image/actions/workflows/makefile.yml)
+
 # yoix-docker-image
 
 Docker image for [Yoix programming language](https://en.wikipedia.org/wiki/Yoix):
